@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Зоопарк/1.0.0": {
+        "dependencies": {
+          "Zoo": "1.0.0"
+        },
+        "runtime": {
+          "Зоопарк.dll": {}
+        }
+      },
+      "Zoo/1.0.0": {
+        "runtime": {
+          "Zoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Зоопарк/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
